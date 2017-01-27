@@ -110,3 +110,43 @@ Als alles goed gegaan is, zou u iets als onderstaande moeten zien:
     -----------------------------------------------------------
 
 U kan nu uw eID gebruiken in Google Chrome en Chromium.
+
+# Hoe kan ik een document ondertekenen onder LibreOffice?
+
+LibreOffice maakt gebruik van de NSS-bibliotheek van Firefox voor beheer
+van certificaten. Dit betekent dat u eerst en vooral Firefox moet
+configureren. Om dat te doen, moet u de middleware installeren, en moet
+u daarna Firefox minstens één keer gestart of herstart hebben. Daarna
+kiest u de volgende opties:
+
+- Bestand - Digitale Handtekeningen...
+
+    ![digitale handtekening](lo-linux-signatures-nl.png)
+
+    - Indien het bestand nog niet opgeslagen is, vraag LibreOffice om
+      dat nu te doen. U kan alleen opgeslagen documenten ondertekenen.
+- U ziet nu het dialoogvenster met reeds bestaande handtekeningen op dit
+  document. Indien er nog geen zijn, is het dialoogvenster leeg.
+- Steek uw kaart in de lezer, en klik vervolgens op "Document
+  ondertekenen..."
+- Kies uw handtekening ("Signature") certificaat in de lijst. De lijst
+  zal ook uw authenticatie-certificaat bevatten; hiermee kan u echter
+  *geen* rechtsgeldige handtekening zetten!
+
+    ![lijst met certificaten](lo-linux-select-cert-nl.png)
+
+- Klik op "OK". Het systeem vraagt nu naar uw PIN-code; geef ze in.
+
+    ![PIN-code dialoog](linux-enter-pin-nl.png)
+
+- Uw handtekening wordt nu aan de lijst met handtekeningen toegevoegd.
+  Indien een andere gebruiker zijn of haar handtekening wilt toevoegen,
+  kan u de procedure herhalen voor die gebruiker.
+
+    ![handtekening toegevoegd](lo-linux-signed-nl.png)
+
+Wanneer u een ondertekend document opent in LibreOffice, ziet u onderaan
+het venster ook een icoontje om aan te geven dat het document
+ondertekend is:
+
+![ondertekend document](lo-linux-signed-mainwin-nl.png)
