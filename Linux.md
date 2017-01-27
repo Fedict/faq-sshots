@@ -1,5 +1,4 @@
-# Debian/Ubuntu/Linux Mint: na installatie van het eid-archive pakket
-# kan de middleware en/of de viewer niet gevonden worden.
+# Debian/Ubuntu/Linux Mint: na installatie van het eid-archive pakket kan de middleware en/of de viewer niet gevonden worden.
 
 Op deze distributies moet u eerst de index cache updaten vooraleer de
 gevraagde pakketten gevonden kunnen worden:
@@ -11,15 +10,13 @@ komt daaar nog bij:
 
     sudo update-software-center
 
-# Ik vind een "candidate" en/of een "continuous" repository in mijn
-# repository-configuratie. Moet ik die inschakelen?
+# Ik vind een "candidate" en/of een "continuous" repository in mijn repository-configuratie. Moet ik die inschakelen?
 
 Neen. Deze repositories bevatten beta-versies van de eID software. U mag
 deze inschakelen indien u dat wenst, maar voor normaal gebruik raden wij
 dat niet aan.
 
-# Hoe moet ik de 32-bit versies van de middleware op mijn 64-bit systeem
-# installeren?
+# Hoe moet ik de 32-bit versies van de middleware op mijn 64-bit systeem installeren?
 
 Eerst en vooral moet u er voor zorgen dat u de 64-bit versie van de
 middleware geïnstalleerd hebt. Op een 64-bit systeem kan de middleware
@@ -49,8 +46,7 @@ Merk op dat er geen 32-bit versie van Red Hat (of CentOS) 7 beschikbaar
 is. Om die reden is het op die distributies ook niet mogelijk om de
 32-bit versie van de middleware te installeren.
 
-# Hoe configureer ik Google Chrome/Chromium onder Linux om me aan te
-# melden met de eID?
+# Hoe configureer ik Google Chrome/Chromium onder Linux om me aan te melden met de eID?
 
 Google Chrome onder Linux gebruikt NSS voor certificaatbeheer. Er is
 geen gebruikersinterface beschikbaar om PKCS#11-modules te installeren;
