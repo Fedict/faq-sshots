@@ -1,3 +1,3 @@
-[Linux]
-[Windows]
-[OSX]
+[Linux](Linux)
+[Windows](Windows)
+[OSX](OSX)
