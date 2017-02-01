@@ -1,0 +1,62 @@
+De installatie (QuickInstall)
+
+    Ga naar http://eid.belgium.be/nl/je_eid_gebruiken/de_eid-middleware_installeren/;
+    Download de eID-Quickinstall:
+        Klik op 'OS X (Apple) Quickinstall' (pijl 1.);
+        Klik onderaan het Dock op 'Downloads';
+        Klik op de eID-Quickinstall;
+        <
+        Aanvaard de gebruikersovereenkomt door te klikken op 'Ja';
+        Dubbelklik op het eID-QuickInstaller icoon.
+
+        OPGELET!
+        Wanneer onderstaande melding wordt getoond moet je de beveiligings- en privacy-instelingen van OS X aanpassen.
+        Volg de procedure OS X: Beveiliging & Privacy en dubbelklik nadien opnieuw op het eID-QuickInstaller icoon.
+
+
+
+De Quickinstall toepassing voert de volgende stappen uit:
+    De eID software installeren;
+	
+De Quickinstall toepassing voert optioneel ook de volgende stappen uit:	
+    De (USB-)kaartlezer verbinden;
+    De eID gegevens bekijken.
+
+De eID software installeren
+
+    Klik op 'Open';
+    Geef een 'Naam' en 'Wachtwoord' van een gebruiker die systeemwijzigingen kan uitvoeren (die administrator-rechten heeft) en klik op OK.
+    Klik vervolgens op 'Installeer de eID-software;
+    De eID-software wordt nu geïnstalleerd.
+
+De (USB-)kaartlezer verbinden
+
+Opgelet !
+Als het onderstaande scherm niet wordt getoond, dan is er een probleem vastgesteld met de eID-Quickinstall. Je kan dit probleem mogelijk oplossen met de stappen beschreven in img not foundQuickInstall faalt
+
+    Verbind de (USB-)kaartlezer met de computer;
+
+    Opgelet !
+    De kaartlezer wordt NIET gevonden? Het kan zijn dat in de testfase de kaartlezer niet wordt herkend.
+    Het opnieuw installeren van de eID-software zal dit probleem NIET verhelpen.
+    Steek de eID in de kaartlezer. Als dit het probleem nog niet verhelpt, herstart dan de computer.
+    De kaartlezer is nu succesvol verbonden. Je kan nu de gegevens op de kaart bekijken.
+
+De eID gegevens bekijken
+
+    Steek de eID in de kaartlezer;
+    De gegevens worden nu getoond.
+
+Opgelet: De gegevens van de eID worden NIET getoond?
+Wanneer je in de testfase zit, is de eID-software succesvol geïnstalleerd. Het kan gebeuren dat de gegevens van de eID tijdens deze fase niet getoond worden. Het opnieuw installeren van de eID-software zal dit probleem NIET verhelpen.
+Sluit daarom de testfase af en herstart de computer.
+
+De eID-middleware is nu geïnstalleerd.
+
+Indien ook de kaartlezer drivers geïnstalleerd worden (OS X 10.11 en lager)
+Klik op 'Sluit' en nadien op 'Ja' om de computer te herstarten. Nadat de computer herstart is kan je aan de slag met je eID.
+
+Je kan je bvb. aanmelden op een website met je eID (test.eid.belgium.be) of je PIN-code wijzigen met de eID-Viewer.
+
+Opgelet: Krijg je toch nog een foutmelding?
+Als je problemen ondervindt met de eID-Quickinstall, volg dan de stappen beschreven in img not found Quickinstall faalt

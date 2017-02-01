@@ -1,0 +1,45 @@
+Stap 1.2 De installatie (QuickInstall)
+
+De Quickinstall toepassing voert de volgende stappen uit:
+    De eID software installeren;
+	
+De Quickinstall heeft ook de optie om volgende stappen uit te voeren:	
+    De (USB-)kaartlezer verbinden;
+    De eID gegevens bekijken.
+
+De eID software installeren
+    Klik op 'Installeer de eID-software';
+    De eID-software wordt nu geïnstalleerd.
+
+De (USB-)kaartlezer verbinden
+
+Opgelet !
+Als het onderstaande scherm niet wordt getoond, dan is er een probleem vastgesteld met de eID-Quickinstall. 
+Je kan dit probleem mogelijk oplossen met de stappen beschreven in img not foundQuickInstall faalt
+
+    Verbind de (USB-)kaartlezer met de computer;
+
+    Opgelet !
+    De kaartlezer wordt NIET gevonden? Het kan zijn dat in de testfase de kaartlezer niet wordt herkend.
+    Het opnieuw installeren van de eID-software zal dit probleem NIET verhelpen.
+    Steek de eID in de kaartlezer. Als dit het probleem nog niet verhelpt, herstart dan de computer.
+    De kaartlezer is nu succesvol verbonden. Je kan nu de gegevens op de kaart bekijken.
+
+De eID gegevens bekijken
+
+    Steek de eID kaart in de kaartlezer;
+	klik op 'volgende'
+    De gegevens worden nu getoond.
+
+Opgelet: De gegevens van de eID worden NIET getoond?
+Wanneer je in de testfase zit, is de eID-software succesvol geïnstalleerd. Het kan gebeuren dat de gegevens van de eID tijdens deze fase niet getoond worden. Het opnieuw installeren van de eID-software zal dit probleem NIET verhelpen.
+Sluit daarom de testfase af en herstart de computer.
+
+De eID-middleware is nu geïnstalleerd.
+
+Klik op 'Sluit' en nadien op 'Ja' om de computer te herstarten. Nadat de computer herstart is kan je aan de slag met je eID.
+
+Je kan je bvb. aanmelden op een website met je eID (test.eid.belgium.be) of je PIN-code wijzigen met de eID-Viewer.
+
+Opgelet: Krijg je toch nog een foutmelding?
+Als je problemen ondervindt met de eID-Quickinstall, volg dan de stappen beschreven in img not found Quickinstall faalt

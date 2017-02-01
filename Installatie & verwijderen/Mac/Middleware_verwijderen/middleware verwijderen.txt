@@ -1,0 +1,13 @@
+Hoe verwijder ik de middleware op Mac?
+
+De eID middleware op Mac te verwijderen kan met de volgende stappen:
+
+    Open een terminal-venster (Applications > Utilities)
+    Voer het volgende commando in en druk op enter: 
+
+sudo pkgutil --unlink be.eid.middleware
+sudo pkgutil --forget be.eid.middleware
+
+    Wanneer erom gevraagd wordt, geef je je paswoord 
+
+De middleware zou nu moeten verwijderd zijn.

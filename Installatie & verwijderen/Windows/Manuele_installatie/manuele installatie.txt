@@ -1,0 +1,25 @@
+Indien je problemen ondervindt met de eID-Quickinstall, kan je dit mogelijk oplossen met de manuele procedure.
+Deze installeert geen kaartlezer drivers en doet geen test mbt het uitlezen van de eID kaart
+
+Opmerking voor systeembeheerders:
+
+Windows 7 vereist een update alvorens een stille installatie van sha2 getekende drivers mogelijk is: https://support.microsoft.com/en-us/kb/2921916
+Volgende update (deel van Windows auto update) dient ook op het systeem aanwezig te zijn:https://support.microsoft.com/en-us/kb/3033929
+
+Windows XP gebruikers opgelet:
+
+Windows XP: SP3 is noodzakelijk. Installeer alle updates van Windows: http://windowsupdate.microsoft.com
+Op Windows XP wordt voor 10 jaar geldige kaarten enkel Firefox ondersteund.
+Windows Installer versie 4.5 is nodig om de toekomstige versies te installeren.
+Om op XP de Windows Installer naar versie 4.5 te brengen klik je op onderstaande link:
+Windows Installer XP v4.5
+
+    Download de 'eID Manuele Installatie' (MSI):
+    img not found32 bit installer
+    img not found64 bit installer
+    Start de 'eID Manuele Installatie';
+    Aanvaard de gebruiksvoorwaarden en klik op 'Volgende';
+    Klik op 'Volgende';
+    Klik op 'Installeren';
+    Klik op 'Voltooien';
+    Klik vervolgens op 'Ja' en herstart de computer.

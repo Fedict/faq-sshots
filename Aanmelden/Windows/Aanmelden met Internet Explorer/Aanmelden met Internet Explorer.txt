@@ -1,0 +1,45 @@
+Aanmelden met Internet Explorer
+
+Opgelet:
+Alvorens je probeert aan te melden is het belangrijk dat de kaartlezer en de eID correct zijn aangesloten en dat je de eID kan uitlezen met de eID-viewer.
+
+
+Hoe verloopt de aanmeldingsprocedure?
+
+    Zorg ervoor dat de (USB-)kaartlezer is verbonden met de computer en de eID-software succesvol is geïnstalleerd;
+    Start Internet Explorer;
+    Ga naar test.eid.belgium.be;
+    Klik op 'Start de test';
+    Er verschijnt nu een popup met de melding om een certificaat te selecteren zoals hieronder afgebeeld.
+    Selecteer je certificaat en klik op 'Ok'.
+    Opgelet!
+    Geen lijst met certificaten?
+    Wanneer de popup met certificaten niet verschijnt dan is er (waarschijnlijk) een probleem met de configuratie van de certificaten. Controleer of de certificaten gekend zijn met img not foundProbleem 3.1.p1
+
+    Je krijgt een foutmelding in Internet Explorer na selectie van het certificaat? img not foundProbleem 3.1.p2
+    Na de certificaat selectie volgt het dialoogvenster om jouw PIN code in te geven.
+    Je hebt kaartlezers zonder ingebouwd numeriek klavier ('Standaard') en kaartlezers met ingebouwd numeriek klavier ('Secure pin pad'). Afhankelijk van het type kaartlezer kan het dialoogscherm eruitzien als één van de twee afbeeldingen hieronder:
+    'Standaard' kaartlezerSecure PIN PAD lezer
+
+    BELANGRIJK!
+    Wanneer je gebruik maakt van een secure pin pad kaartlezer (afbeelding rechts), dan moet je de PIN code ingeven op het numeriek klavier van de kaartlezer of op het numeriek klavier van je PC en aflsuiten met een ENTER.
+
+    Er verschijnt geen numeriek klavier op het scherm !
+
+    Opgelet!
+    Jouw PIN scherm beantwoordt aan geen van bovenstaande schermafdrukken?
+    Neem contact op met de servicedesk van Fedict en bezorg een schermafdruk van het PIN scherm.
+	
+    Als je na de ingave van de PIN code onderstaande afbeelding krijgt, dan is de test geslaagd.
+
+    Dit betekent dat:
+        De kaartlezer correct is aangesloten (ie. stuurprogramma geïnstalleerd);
+        De eID-software met succes is geïnstalleerd;
+        De certificaten door de browser zijn gekend en kunnen gebruikt worden.
+
+    Opgelet!
+    De test is NIET geslaagd?
+    De oorzaken van een niet geslaagde test kunnen heel divers zijn (bvb: netwerkproblemen, bepaalde anti-virus software, etc.)
+    Het is ook mogelijk dat je browser foutpagina's toont terwijl er eigenlijk geen fout meer is.
+
+    Om deze laatste mogelijkheid uit te sluiten verwijder je best de 'Tijdelijke Internetbestanden en websites' van Internet Explorer door de procedure te volgen beschreven in img not foundProbleem 3.1.p3

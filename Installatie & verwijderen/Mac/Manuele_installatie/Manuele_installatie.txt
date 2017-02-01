@@ -1,0 +1,18 @@
+Manuele installatie
+
+Indien je problemen ondervindt met de eID-Quickinstall, kan je dit mogelijk oplossen met de manuele procedure.
+Deze installer installeert geen kaartlezer drivers
+
+    Download de 'eID-Manuele Installatie';
+    INSTALLERS.MANUAL_INSTALLER_MAC();img not foundApple OS X 10.6, 10.7, 10.8, 10.9
+    Klik onderaan het Dock op 'Downloads';
+    Klik op de 'beid-x.x.x-xxxx-signed_tcmxxx-xxxxxx.dmg' download;
+    Dubbelklik op beid-xxxx-signed.pkg;
+    Klik op 'Ga door';
+    Klik op 'Ga door';
+    Klik op 'Ga door';
+    Klik op 'Ga door';
+    Klik op 'Akkoord';
+    Klik op 'Installeer';
+    Geef een 'Naam' en 'Wachtwoord' van een gebruiker die systeemwijzigingen kan uitvoeren (die administrator-rechten heeft) en klik op 'Installeer software';
+    Klik op 'Sluit' en herstart de computer.

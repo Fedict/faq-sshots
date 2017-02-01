@@ -1,0 +1,8 @@
+Logbestanden installatie
+
+Wanneer de installatie faalt kan het nuttig zijn de logbestanden die zijn aangemaakt tijdens het uitvoeren van de installer te bekijken en/of door te sturen naar de service desk
+
+Deze logbestanden kan je vinden onder: 
+%PROGRAM_FILES%/install_*.txt
+bvb voor een installatie op de c-schijf op een 64-bit windows:
+C:\Program Files (x86)\Belgium Identity Card\log\install_eidmw64_log.txt
