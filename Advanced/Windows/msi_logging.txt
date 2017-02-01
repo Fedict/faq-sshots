@@ -1,0 +1,6 @@
+ Om de manuele installatie logbestanden te laten genereren, dien je hem te starten in een command prompt:
+
+    Klik met rechter muisknop op het windows startmenu
+    Selecteer "uitvoeren"
+    Type "cmd" en druk op "enter"
+    geef volgend commando in in de command prompt: msiexec /L*v beidinstall.log /I "BeidMW40.msi"
